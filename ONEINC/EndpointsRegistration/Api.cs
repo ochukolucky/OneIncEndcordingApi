@@ -33,14 +33,6 @@ namespace ONEINC.EndpointsRegistration
 
         }
 
-        //private static async IAsyncEnumerable<string> encode([FromBody] EncordRequest request, CancellationToken cancellationToken, IEncoderService encoderService)
-        //{
-        //    await foreach (var character in encoderService.EncodeToBase64Async(request.input, cancellationToken))
-        //    {
-        //        yield return character;
-        //    }
-        //}
-
         private static async IAsyncEnumerable<char> encode([FromBody] EncordRequest request, CancellationToken cancellationToken, IEncoderService encoderService)
         {
             await foreach (var character in encoderService.EncodeAsync(request.input, cancellationToken))

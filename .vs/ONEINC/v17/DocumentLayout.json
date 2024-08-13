@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\ONEINC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B59A4CC0-B6D1-4D73-969C-C8C5F18944F1}|ONEINC\\ONEINC.csproj|c:\\users\\hp\\source\\repos\\oneinc\\oneinc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B59A4CC0-B6D1-4D73-969C-C8C5F18944F1}|ONEINC\\ONEINC.csproj|solutionrelative:oneinc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59A4CC0-B6D1-4D73-969C-C8C5F18944F1}|ONEINC\\ONEINC.csproj|c:\\users\\hp\\source\\repos\\oneinc\\oneinc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59A4CC0-B6D1-4D73-969C-C8C5F18944F1}|ONEINC\\ONEINC.csproj|solutionrelative:oneinc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59A4CC0-B6D1-4D73-969C-C8C5F18944F1}|ONEINC\\ONEINC.csproj|c:\\users\\hp\\source\\repos\\oneinc\\oneinc\\endpointsregistration\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59A4CC0-B6D1-4D73-969C-C8C5F18944F1}|ONEINC\\ONEINC.csproj|solutionrelative:oneinc\\endpointsregistration\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B59A4CC0-B6D1-4D73-969C-C8C5F18944F1}|ONEINC\\ONEINC.csproj|c:\\users\\hp\\source\\repos\\oneinc\\oneinc\\appservicregistration\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B59A4CC0-B6D1-4D73-969C-C8C5F18944F1}|ONEINC\\ONEINC.csproj|solutionrelative:oneinc\\appservicregistration\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{760BD785-A87F-488E-8767-17BDB6B810F1}|Application\\Application.csproj|c:\\users\\hp\\source\\repos\\oneinc\\application\\interface\\iencoderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{760BD785-A87F-488E-8767-17BDB6B810F1}|Application\\Application.csproj|solutionrelative:application\\interface\\iencoderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +27,8 @@
       "RelativeMoniker": "D:0:0:{760BD785-A87F-488E-8767-17BDB6B810F1}|Application\\Application.csproj|solutionrelative:application\\implementation\\encoderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B59A4CC0-B6D1-4D73-969C-C8C5F18944F1}|ONEINC\\ONEINC.csproj|c:\\users\\hp\\source\\repos\\oneinc\\oneinc\\endpointsregistration\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B59A4CC0-B6D1-4D73-969C-C8C5F18944F1}|ONEINC\\ONEINC.csproj|solutionrelative:oneinc\\endpointsregistration\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1013EF30-1FAA-4201-8964-C7193A19DBE5}|Domain\\Domain.csproj|c:\\users\\hp\\source\\repos\\oneinc\\domain\\dtos\\encordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1013EF30-1FAA-4201-8964-C7193A19DBE5}|Domain\\Domain.csproj|solutionrelative:domain\\dtos\\encordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B59A4CC0-B6D1-4D73-969C-C8C5F18944F1}|ONEINC\\ONEINC.csproj|c:\\users\\hp\\source\\repos\\oneinc\\oneinc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B59A4CC0-B6D1-4D73-969C-C8C5F18944F1}|ONEINC\\ONEINC.csproj|solutionrelative:oneinc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B59A4CC0-B6D1-4D73-969C-C8C5F18944F1}|ONEINC\\ONEINC.csproj|c:\\users\\hp\\source\\repos\\oneinc\\oneinc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B59A4CC0-B6D1-4D73-969C-C8C5F18944F1}|ONEINC\\ONEINC.csproj|solutionrelative:oneinc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B59A4CC0-B6D1-4D73-969C-C8C5F18944F1}|ONEINC\\ONEINC.csproj|c:\\users\\hp\\source\\repos\\oneinc\\oneinc\\oneinc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -48,10 +52,23 @@
               "RelativeDocumentMoniker": "ONEINC\\EndpointsRegistration\\Api.cs",
               "ToolTip": "C:\\Users\\Hp\\source\\repos\\ONEINC\\ONEINC\\EndpointsRegistration\\Api.cs",
               "RelativeToolTip": "ONEINC\\EndpointsRegistration\\Api.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAqwC8AAAAQAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-10T00:07:35.902Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\ONEINC\\ONEINC\\AppServicRegistration\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "ONEINC\\AppServicRegistration\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\ONEINC\\ONEINC\\AppServicRegistration\\ServiceRegistration.cs",
+              "RelativeToolTip": "ONEINC\\AppServicRegistration\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T18:11:32.372Z",
               "EditorCaption": ""
             },
             {
@@ -60,32 +77,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IEncoderService.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\ONEINC\\Application\\Interface\\IEncoderService.cs",
-              "RelativeDocumentMoniker": "Application\\Interface\\IEncoderService.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\ONEINC\\Application\\Interface\\IEncoderService.cs",
-              "RelativeToolTip": "Application\\Interface\\IEncoderService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAwwBIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T09:26:46.859Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\ONEINC\\ONEINC\\Program.cs",
               "RelativeDocumentMoniker": "ONEINC\\Program.cs",
               "ToolTip": "C:\\Users\\Hp\\source\\repos\\ONEINC\\ONEINC\\Program.cs",
               "RelativeToolTip": "ONEINC\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAUwB0AAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T22:21:48.195Z"
+              "WhenOpened": "2024-08-09T22:21:48.195Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "EncoderService.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\ONEINC\\Application\\Implementation\\EncoderService.cs",
               "RelativeDocumentMoniker": "Application\\Implementation\\EncoderService.cs",
@@ -93,12 +98,11 @@
               "RelativeToolTip": "Application\\Implementation\\EncoderService.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAtwAoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T09:27:42.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-10T09:27:42.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "EncordRequest.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\ONEINC\\Domain\\DTOs\\EncordRequest.cs",
               "RelativeDocumentMoniker": "Domain\\DTOs\\EncordRequest.cs",
@@ -110,7 +114,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\ONEINC\\ONEINC\\Dockerfile",
+              "RelativeDocumentMoniker": "ONEINC\\Dockerfile",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\ONEINC\\ONEINC\\Dockerfile",
+              "RelativeToolTip": "ONEINC\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-09T22:24:21.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEncoderService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\ONEINC\\Application\\Interface\\IEncoderService.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\IEncoderService.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\ONEINC\\Application\\Interface\\IEncoderService.cs",
+              "RelativeToolTip": "Application\\Interface\\IEncoderService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T09:26:46.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ONEINC.csproj",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\ONEINC\\ONEINC\\ONEINC.csproj",
               "RelativeDocumentMoniker": "ONEINC\\ONEINC.csproj",
@@ -119,18 +148,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-08-10T00:05:30.5Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\ONEINC\\ONEINC\\Dockerfile",
-              "RelativeDocumentMoniker": "ONEINC\\Dockerfile",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\ONEINC\\ONEINC\\Dockerfile",
-              "RelativeToolTip": "ONEINC\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-09T22:24:21.312Z"
             }
           ]
         }
