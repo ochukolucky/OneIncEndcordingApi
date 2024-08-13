@@ -15,12 +15,11 @@ namespace ONEINC.EndpointsRegistration
         {
             // All of my Api endpoint mapping 
             app.MapPost(pattern: "/Users/encodeUserTest", EncodeTest);
-            app.MapPost(pattern: "/Users/encodeUserTest2", EncodeTest2);
+            app.MapPost(pattern: "/Users/encode", encode);
         }
 
         private static async Task<IResult> EncodeTest([FromBody] EncordRequest request, CancellationToken cancellationToken, IEncoderService encoderService)
         {
-
             try
             {
                 var encodedString = await encoderService.EncodeToBase64(request.input, cancellationToken);
@@ -34,15 +33,20 @@ namespace ONEINC.EndpointsRegistration
 
         }
 
-        private static async IAsyncEnumerable<string> EncodeTest2([FromBody] EncordRequest request, CancellationToken cancellationToken, IEncoderService encoderService)
-        {
+        //private static async IAsyncEnumerable<string> encode([FromBody] EncordRequest request, CancellationToken cancellationToken, IEncoderService encoderService)
+        //{
+        //    await foreach (var character in encoderService.EncodeToBase64Async(request.input, cancellationToken))
+        //    {
+        //        yield return character;
+        //    }
+        //}
 
+        private static async IAsyncEnumerable<string> encode([FromBody] EncordRequest request, CancellationToken cancellationToken, IEncoderService encoderService)
+        {
             await foreach (var character in encoderService.EncodeToBase64Async(request.input, cancellationToken))
             {
                 yield return character;
             }
-
-
         }
 
     }

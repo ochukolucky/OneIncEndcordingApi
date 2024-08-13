@@ -10,9 +10,24 @@ namespace Application.Implementation
 {
     public class EncoderService : IEncoderService
     {
-       
+        public async IAsyncEnumerable<char> EncodeAsync(string input, CancellationToken cancellationToken)
+        {
+            //encript the incoming request to base64
+            byte[] textBytes = Encoding.UTF8.GetBytes(input);
+            string base64 = Convert.ToBase64String(textBytes);
 
-        public async Task<string> EncodeToBase64(string input, CancellationToken cancellationToken)
+            //loop each one
+            foreach (char c in base64)
+            {
+                if (cancellationToken.IsCancellationRequested)
+                    yield break;
+
+                await Task.Delay(new Random().Next(1000, 5001), cancellationToken);
+                yield return c;
+
+            }
+        }
+            public async Task<string> EncodeToBase64(string input, CancellationToken cancellationToken)
         {
             try
 			{
@@ -39,24 +54,6 @@ namespace Application.Implementation
 				throw;
 			}
         }
-
-        public async IAsyncEnumerable<string> EncodeToBase64Async(string input, CancellationToken cancellationToken)
-        {
-            string encoded = Convert.ToBase64String(Encoding.UTF8.GetBytes(input));
-            Random random = new Random();
-
-            foreach (char c in encoded)
-            {
-                await Task.Delay(random.Next(1000, 5000), cancellationToken);
-                yield return c.ToString();
-
-                if (cancellationToken.IsCancellationRequested)
-                {
-                    yield break;
-                }
-            }
-        }
-
 
     }
     

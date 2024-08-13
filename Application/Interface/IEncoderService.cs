@@ -10,9 +10,9 @@ namespace Application.Interface
     {
         Task<string> EncodeToBase64(string input, CancellationToken cancellationToken);
 
+        IAsyncEnumerable<char> EncodeAsync(string input, CancellationToken cancellationToken);
 
-        IAsyncEnumerable<string> EncodeToBase64Async(string input, CancellationToken cancellationToken);
-        
+
 
     }
 }
