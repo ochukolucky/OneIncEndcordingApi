@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ONEINC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21ef6e39f827e95aea91796299d718efaf7c617a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+930362a2fd07efd174fbbdedebca2212a3cf6d0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ONEINC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ONEINC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
