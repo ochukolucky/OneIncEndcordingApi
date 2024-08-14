@@ -40,3 +40,4 @@ C:\Users\Hp\source\repos\ONEINC\ONEINC\bin\Debug\net8.0\Infrastructure.dll
 C:\Users\Hp\source\repos\ONEINC\ONEINC\bin\Debug\net8.0\Infrastructure.pdb
 C:\Users\Hp\source\repos\ONEINC\ONEINC\bin\Debug\net8.0\Serilog.dll
 C:\Users\Hp\source\repos\ONEINC\ONEINC\obj\Debug\net8.0\ONEINC.sourcelink.json
+C:\Users\Hp\source\repos\ONEINC\ONEINC\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll

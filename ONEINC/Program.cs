@@ -1,25 +1,42 @@
-using ONEINC.AppServicRegistration;
-using ONEINC.EndpointsRegistration;
+using Application.Implementation;
+using Application.Interface;
+using Domain.DTOs;
+using Microsoft.AspNetCore.Mvc;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddApplicationServices();
 
+
+builder.Services.AddScoped<IEncodingService, EncodingService>();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddLogging();
 
-// Configure CORS
+
+// Add CORS services to the container
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAnyOrigin",
-        policy =>
+        builder =>
         {
-            policy.AllowAnyOrigin()
-                  .AllowAnyMethod()
-                  .AllowAnyHeader();
+            builder.AllowAnyOrigin()   // Allows any origin
+                   .AllowAnyHeader()   // Allows any headers
+                   .AllowAnyMethod();  // Allows any HTTP methods
         });
 });
+
+
 var app = builder.Build();
+
+app.MapPost("/encode", async ([FromBody]EncodeRequest request, HttpResponse response, IEncodingService encodingService, CancellationToken cancellationToken) =>
+{
+    await encodingService.EncodeAsync(request.Input, response, cancellationToken);
+});
+
+
+
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -30,9 +47,10 @@ if (app.Environment.IsDevelopment())
 
 // Use CORS middleware
 app.UseCors("AllowAnyOrigin");
+
 app.UseHttpsRedirection();
 
-app.configureApi();
+
 
 
 

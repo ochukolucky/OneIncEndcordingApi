@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "spQpgWJXAm55x/772R62zonS7zQDr3c7w9y8yC94Hewo5fbDUxHHifQO+s5dfe0VhJ8bZmskhEBT9mE6sfPbgQ==",
+  "dgSpecHash": "CsiDpLiKkIjk3V6UpVoFGdAZrwlDu9vSMwYZW6GB+YCPX6SICHsVnEZrvzVV4k75e4XlLBhokIiH/JjBbiu5kg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Hp\\source\\repos\\ONEINC\\ONEINC\\ONEINC.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
