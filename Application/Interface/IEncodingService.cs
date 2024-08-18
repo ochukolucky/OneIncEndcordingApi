@@ -9,6 +9,11 @@ namespace Application.Interface
 {
     public interface IEncodingService
     {
-        Task EncodeAsync(string input, HttpResponse response, CancellationToken cancellationToken);
+        Task<string> StartEncoding(string input);
+        Task StreamEncoding(string encodingId, HttpResponse response, CancellationToken cancellationToken);
+        Task<string> CancelEncoding(string encodingId);
+
+
+
     }
 }

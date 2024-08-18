@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "RZWm1o5UiJvtYhCKO7Z6VR2ZiCmq+l4VtLnX+i1YWQ+quA+IARMdypnPJ4b7KnS53RsM4hBJi2VDsRUBu1bH2g==",
+  "dgSpecHash": "oLYEOuB85msnjE23+xT6Cdyp7Zf48TSLQ4USo0J45YgHKE6YqTUEUXkDrUU9HsUMswDiziTu202COl5jmQEzEg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Hp\\source\\repos\\ONEINC\\UnitTests\\UnitTests.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\stackexchange.redis\\2.8.0\\stackexchange.redis.2.8.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

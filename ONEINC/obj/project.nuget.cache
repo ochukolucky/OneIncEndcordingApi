@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CsiDpLiKkIjk3V6UpVoFGdAZrwlDu9vSMwYZW6GB+YCPX6SICHsVnEZrvzVV4k75e4XlLBhokIiH/JjBbiu5kg==",
+  "dgSpecHash": "13sPsV5XBmh2XQhKHdI1BuKkh3npWaQfHh0RoAT7iKwsfvE8jZPeGBiOdjdmq9VVNoEZycceVrw3iebnUYBrug==",
   "success": true,
   "projectFilePath": "C:\\Users\\Hp\\source\\repos\\ONEINC\\ONEINC\\ONEINC.csproj",
   "expectedPackageFiles": [
@@ -14,11 +14,14 @@
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\serilog\\4.0.1\\serilog.4.0.1.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\stackexchange.redis\\2.8.0\\stackexchange.redis.2.8.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
   "logs": []

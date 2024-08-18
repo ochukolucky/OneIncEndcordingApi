@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "AgcvfR74+d5mLZWLj9D9f5UXV5el6T7cGk0Bgpo1sAiqYTnUiB/RXeA/78QJxgDdxJ/H7rXOFlqMQ3UpC49L3w==",
+  "dgSpecHash": "Lz/DwJgrnfoRLHS7Oz3uVfrrErw3NfXjvIE2S0MUgXLv4wHuzFfgtp1sLUdlAzCl7taFUS+P35rnWNC5qP5wAA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Hp\\source\\repos\\ONEINC\\Application\\Application.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,10 @@
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.1\\microsoft.extensions.logging.abstractions.8.0.1.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\serilog\\4.0.1\\serilog.4.0.1.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\stackexchange.redis\\2.8.0\\stackexchange.redis.2.8.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
   "logs": []

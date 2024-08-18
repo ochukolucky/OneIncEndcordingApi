@@ -10,3 +10,4 @@ C:\Users\Hp\source\repos\ONEINC\Infrastructure\obj\Debug\net8.0\Infrastructure.d
 C:\Users\Hp\source\repos\ONEINC\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
 C:\Users\Hp\source\repos\ONEINC\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
 C:\Users\Hp\source\repos\ONEINC\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Hp\source\repos\ONEINC\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json

@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\ONEINC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{760BD785-A87F-488E-8767-17BDB6B810F1}|Application\\Application.csproj|c:\\users\\hp\\source\\repos\\oneinc\\application\\implementation\\encodingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{760BD785-A87F-488E-8767-17BDB6B810F1}|Application\\Application.csproj|solutionrelative:application\\implementation\\encodingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B59A4CC0-B6D1-4D73-969C-C8C5F18944F1}|ONEINC\\ONEINC.csproj|c:\\users\\hp\\source\\repos\\oneinc\\oneinc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B59A4CC0-B6D1-4D73-969C-C8C5F18944F1}|ONEINC\\ONEINC.csproj|solutionrelative:oneinc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B59A4CC0-B6D1-4D73-969C-C8C5F18944F1}|ONEINC\\ONEINC.csproj|c:\\users\\hp\\source\\repos\\oneinc\\oneinc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,16 +15,8 @@
       "RelativeMoniker": "D:0:0:{760BD785-A87F-488E-8767-17BDB6B810F1}|Application\\Application.csproj|solutionrelative:application\\interface\\iencodingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1013EF30-1FAA-4201-8964-C7193A19DBE5}|Domain\\Domain.csproj|c:\\users\\hp\\source\\repos\\oneinc\\domain\\dtos\\encoderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1013EF30-1FAA-4201-8964-C7193A19DBE5}|Domain\\Domain.csproj|solutionrelative:domain\\dtos\\encoderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B59A4CC0-B6D1-4D73-969C-C8C5F18944F1}|ONEINC\\ONEINC.csproj|c:\\users\\hp\\source\\repos\\oneinc\\oneinc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B59A4CC0-B6D1-4D73-969C-C8C5F18944F1}|ONEINC\\ONEINC.csproj|solutionrelative:oneinc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1013EF30-1FAA-4201-8964-C7193A19DBE5}|Domain\\Domain.csproj|c:\\users\\hp\\source\\repos\\oneinc\\domain\\dtos\\encordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1013EF30-1FAA-4201-8964-C7193A19DBE5}|Domain\\Domain.csproj|solutionrelative:domain\\dtos\\encordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1013EF30-1FAA-4201-8964-C7193A19DBE5}|Domain\\Domain.csproj|c:\\users\\hp\\source\\repos\\oneinc\\domain\\dtos\\encodingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1013EF30-1FAA-4201-8964-C7193A19DBE5}|Domain\\Domain.csproj|solutionrelative:domain\\dtos\\encodingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B59A4CC0-B6D1-4D73-969C-C8C5F18944F1}|ONEINC\\ONEINC.csproj|c:\\users\\hp\\source\\repos\\oneinc\\oneinc\\oneinc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -38,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,27 +38,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EncodeRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\ONEINC\\Domain\\DTOs\\EncodeRequest.cs",
-              "RelativeDocumentMoniker": "Domain\\DTOs\\EncodeRequest.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\ONEINC\\Domain\\DTOs\\EncodeRequest.cs",
-              "RelativeToolTip": "Domain\\DTOs\\EncodeRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T02:06:53.909Z"
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\ONEINC\\ONEINC\\appsettings.json",
+              "RelativeDocumentMoniker": "ONEINC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\ONEINC\\ONEINC\\appsettings.json",
+              "RelativeToolTip": "ONEINC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T00:39:02.842Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EncodingService.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\ONEINC\\Application\\Implementation\\EncodingService.cs",
-              "RelativeDocumentMoniker": "Application\\Implementation\\EncodingService.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\ONEINC\\Application\\Implementation\\EncodingService.cs",
-              "RelativeToolTip": "Application\\Implementation\\EncodingService.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAkwBMAAAAIAAAA",
+              "DocumentIndex": 3,
+              "Title": "EncodingRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\ONEINC\\Domain\\DTOs\\EncodingRequest.cs",
+              "RelativeDocumentMoniker": "Domain\\DTOs\\EncodingRequest.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\ONEINC\\Domain\\DTOs\\EncodingRequest.cs",
+              "RelativeToolTip": "Domain\\DTOs\\EncodingRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T02:04:26.403Z",
+              "WhenOpened": "2024-08-14T02:06:53.909Z",
               "EditorCaption": ""
             },
             {
@@ -77,9 +70,10 @@
               "RelativeDocumentMoniker": "Application\\Interface\\IEncodingService.cs",
               "ToolTip": "C:\\Users\\Hp\\source\\repos\\ONEINC\\Application\\Interface\\IEncodingService.cs",
               "RelativeToolTip": "Application\\Interface\\IEncodingService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAAAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAEwAsAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T02:03:41.812Z"
+              "WhenOpened": "2024-08-14T02:03:41.812Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -89,7 +83,7 @@
               "RelativeDocumentMoniker": "ONEINC\\Program.cs",
               "ToolTip": "C:\\Users\\Hp\\source\\repos\\ONEINC\\ONEINC\\Program.cs",
               "RelativeToolTip": "ONEINC\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAACEAAAAhAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAiwBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-09T22:21:48.195Z",
               "EditorCaption": ""
@@ -97,36 +91,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\ONEINC\\ONEINC\\Dockerfile",
-              "RelativeDocumentMoniker": "ONEINC\\Dockerfile",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\ONEINC\\ONEINC\\Dockerfile",
-              "RelativeToolTip": "ONEINC\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-09T22:24:21.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EncordRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\ONEINC\\Domain\\DTOs\\EncordRequest.cs",
-              "RelativeDocumentMoniker": "Domain\\DTOs\\EncordRequest.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\ONEINC\\Domain\\DTOs\\EncordRequest.cs",
-              "RelativeToolTip": "Domain\\DTOs\\EncordRequest.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T02:08:13.181Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "ONEINC.csproj",
               "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\ONEINC\\ONEINC\\ONEINC.csproj",
               "RelativeDocumentMoniker": "ONEINC\\ONEINC.csproj",
               "ToolTip": "C:\\Users\\Hp\\source\\repos\\ONEINC\\ONEINC\\ONEINC.csproj",
               "RelativeToolTip": "ONEINC\\ONEINC.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-08-10T00:05:30.5Z"
             }

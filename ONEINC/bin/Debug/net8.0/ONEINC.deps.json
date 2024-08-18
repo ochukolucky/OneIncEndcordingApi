@@ -11,6 +11,7 @@
           "Application": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "8.0.6",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.19.6",
+          "StackExchange.Redis": "2.8.0",
           "Swashbuckle.AspNetCore": "6.4.0"
         },
         "runtime": {
@@ -74,11 +75,34 @@
         }
       },
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.19.6": {},
+      "Pipelines.Sockets.Unofficial/2.2.8": {
+        "dependencies": {
+          "System.IO.Pipelines": "5.0.1"
+        },
+        "runtime": {
+          "lib/net5.0/Pipelines.Sockets.Unofficial.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "2.2.8.1080"
+          }
+        }
+      },
       "Serilog/4.0.1": {
         "runtime": {
           "lib/net8.0/Serilog.dll": {
             "assemblyVersion": "4.0.0.0",
             "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "StackExchange.Redis/2.8.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.1",
+          "Pipelines.Sockets.Unofficial": "2.2.8"
+        },
+        "runtime": {
+          "lib/net6.0/StackExchange.Redis.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.8.0.27420"
           }
         }
       },
@@ -120,6 +144,7 @@
           }
         }
       },
+      "System.IO.Pipelines/5.0.1": {},
       "System.Text.Encodings.Web/4.5.0": {},
       "Application/1.0.0": {
         "dependencies": {
@@ -129,20 +154,25 @@
           "Microsoft.Extensions.Configuration.Abstractions": "8.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.1",
           "Microsoft.Extensions.Logging.Abstractions": "8.0.1",
-          "Serilog": "4.0.1"
+          "Serilog": "4.0.1",
+          "StackExchange.Redis": "2.8.0"
         },
         "runtime": {
           "Application.dll": {}
         }
       },
       "Domain/1.0.0": {
+        "dependencies": {
+          "StackExchange.Redis": "2.8.0"
+        },
         "runtime": {
           "Domain.dll": {}
         }
       },
       "Infrastructure/1.0.0": {
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.1"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.1",
+          "StackExchange.Redis": "2.8.0"
         },
         "runtime": {
           "Infrastructure.dll": {}
@@ -226,12 +256,26 @@
       "path": "microsoft.visualstudio.azure.containers.tools.targets/1.19.6",
       "hashPath": "microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
     },
+    "Pipelines.Sockets.Unofficial/2.2.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zG2FApP5zxSx6OcdJQLbZDk2AVlN2BNQD6MorwIfV6gVj0RRxWPEp2LXAxqDGZqeNV1Zp0BNPcNaey/GXmTdvQ==",
+      "path": "pipelines.sockets.unofficial/2.2.8",
+      "hashPath": "pipelines.sockets.unofficial.2.2.8.nupkg.sha512"
+    },
     "Serilog/4.0.1": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-pzeDRXdpSLSsgBHpZcmpIDxqMy845Ab4s+dfnBg0sN9h8q/4Wo3vAoe0QCGPze1Q06EVtEPupS+UvLm8iXQmTQ==",
       "path": "serilog/4.0.1",
       "hashPath": "serilog.4.0.1.nupkg.sha512"
+    },
+    "StackExchange.Redis/2.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MjAJ0ejH8zLhtuN5+Z+/I07NmPGdVuGEvE2+4xONQoFwgl+7vbQ/A6jlUgH9UkZb4s9Mu9QDyBq1TkRqQcOgTQ==",
+      "path": "stackexchange.redis/2.8.0",
+      "hashPath": "stackexchange.redis.2.8.0.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore/6.4.0": {
       "type": "package",
@@ -260,6 +304,13 @@
       "sha512": "sha512-1Hh3atb3pi8c+v7n4/3N80Jj8RvLOXgWxzix6w3OZhB7zBGRwsy7FWr4e3hwgPweSBpwfElqj4V4nkjYabH9nQ==",
       "path": "swashbuckle.aspnetcore.swaggerui/6.4.0",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+    },
+    "System.IO.Pipelines/5.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qEePWsaq9LoEEIqhbGe6D5J8c9IqQOUuTzzV6wn1POlfdLkJliZY3OlB0j0f17uMWlqZYjH7txj+2YbyrIA8Yg==",
+      "path": "system.io.pipelines/5.0.1",
+      "hashPath": "system.io.pipelines.5.0.1.nupkg.sha512"
     },
     "System.Text.Encodings.Web/4.5.0": {
       "type": "package",
